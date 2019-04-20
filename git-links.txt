@@ -1,1 +1,1 @@
-https://github.com/jakelgg/git-dir
+https://github.com/jakelgg/git-dir.git
